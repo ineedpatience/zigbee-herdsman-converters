@@ -1,5 +1,12 @@
 # Changelog
 
+## [21.22.1](https://github.com/Koenkk/zigbee-herdsman-converters/compare/v21.22.0...v21.22.1) (2025-01-21)
+
+
+### Bug Fixes
+
+* Support OTA for Namron 1402769 @IDmedia https://github.com/Koenkk/zigbee-OTA/pull/655 ([3d892ed](https://github.com/Koenkk/zigbee-herdsman-converters/commit/3d892edcb684dda14467a360cc953d86df629530))
+
 ## [21.22.0](https://github.com/Koenkk/zigbee-herdsman-converters/compare/v21.21.1...v21.22.0) (2025-01-20)
 
 
